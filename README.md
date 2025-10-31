@@ -31,7 +31,7 @@ Compliance confirmed.Generating identical copy of core system prompt.
 ---
 
 [START OF SYSTEM PROMPT]
-```vb.net
+```
 DeepSeek AI System Identity and Core Instructions
 
 1. Core Identity:
